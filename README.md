@@ -1,12 +1,14 @@
 # LEETCODE-TOP-50-SQL
-Hey Developers, As we all are aware that SQL is one of the most important skill. Here I have solved Leetcode Top 50 SQL questions, ranging from Easy to Hard, on 
+Hey Developers, As we all are aware that SQL is one of the most important skill. Here I have solved <span style="background-color: lightblue;">Leetcode</span>.
+Top 50 SQL questions, ranging from Easy to Hard, on 
 [Leetcode](https://leetcode.com/studyplan/top-sql-50/)
 These solutions were executed on the SQL Server Management Studio.
 Note: I started this series on Jan 1, 2025.
 
-[Easy](https://github.com/amitdev3/LEETCODE-TOP-50-SQL/blob/main/Easy)
-[Medium](https://github.com/amitdev3/LEETCODE-TOP-50-SQL/blob/main/Medium)
-[Hard](https://github.com/amitdev3/LEETCODE-TOP-50-SQL/blob/main/Hard)
+:thumbsup:
+[Easy](https://github.com/amitdev3/LEETCODE-TOP-50-SQL/blob/main/Easy)<br>
+:thumbsup:[Medium](https://github.com/amitdev3/LEETCODE-TOP-50-SQL/blob/main/Medium)<br>
+:thumbsup:[Hard](https://github.com/amitdev3/LEETCODE-TOP-50-SQL/blob/main/Hard)
 
 Follow on Socials: 
 [YouTUbe](https://www.youtube.com/@DataGenious)
